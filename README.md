@@ -1,0 +1,1 @@
+`ansible-playbook configuration.yaml -i inventory`
